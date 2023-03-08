@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<PLANT>
+    <Plants>
+        <plantea type="herbal plant">
+            <herb id="1">
+                <name>Ginger</name>
+                <scientificname>Zingiber officinale</scientificname>
+                <uses>nausea and vomiting</uses>
+                <timeboiled>Boil the ginger root and water for ten to twenty minutes.</timeboiled>
+                <facts>
+                    <fact_1>Ginger is actually a rhizome, not a root.</fact_1>
+                    <fact_2>The ginger plant is an herb.</fact_2>
+                    <fact_3>Ginger is a part of the Zingiberaceae family, which also includes turmeric and cardamom.</fact_3>
+                </facts>
+            </herb>
+
+            <herb id="2">
+                <name>tawa-tawa</name>
+                <scientificname>Euphorbia hirta</scientificname>
+                <uses>treatment of dengue</uses>
+                <timeboiled>15 minutes.</timeboiled>
+                <facts>It contains contain triterpenes, phytosterols, tannins, polyphenols, and flavonoids</facts>
+            </herb>
+
+            <herb id="3">
+                <name>sambung</name>
+                <scientificname>Blumea balsamifera</scientificname>
+                <uses>good for kidney</uses>
+                <timeboiled>Steep the leaves for 10 minutes.</timeboiled>
+                <facts>
+                    <fact_1>Traditional Chinese Medicines.</fact_1>
+                    <fact_2>This plant grows on forest edges, under forests, river beds, valleys and grasses.</fact_2>
+                </facts>
+            </herb>
+
+            <herb id="4">
+                <name>lagundi</name>
+                <scientificname>Vitex negundo</scientificname>
+                <uses>effectively treat wounds, headaches, ulcers, skin diseases, diarrhea, and the common cold,</uses>
+                <timeboiled>2 cups of water. Boil for 10 minutes.</timeboiled>
+                <facts>
+                    <fact_1>used to treat insect and snake bites.</fact_1>
+                    <fact_2>Primarily it is recognized as herbal medicine for respiratory problems.</fact_2>
+                </facts>
+            </herb>
+
+            <herb id="5">
+                <name>ulasimang bato</name>
+                <scientificname>Peperomia pellucida</scientificname>
+                <uses>
+                    <use_1>the leaves have been used as a decoction to treat gout.</use_1>
+                    <use_2>to treat arthritis and urinary tract infections.</use_2>
+                    <use_3>to treat Anti-hyperurisemia.</use_3>
+                </uses>
+                <timeboiled>10 to 15 minutes .</timeboiled>
+                <facts>
+                    <fact_1>also commonly known as  pansit-pansitan</fact_1>
+                    <fact_2>the leaves can be eaten fresh (about a cupful) as salad or like tea.</fact_2>
+                </facts>
+            </herb>
+
+            <herb id="6">
+                <name>garlic</name>
+                <scientificname>Allium sativum</scientificname>
+                <uses>
+                    <use_1>to treat Anti-cholesterol.</use_1>
+                    <use_2>to treat dietary supplement for conditions related to the heart and blood vessels.</use_2>
+                    <use_3>Garlic Helps Boost Your Body's Immune System.</use_3>
+                </uses>
+                <timeboiled>about 7 minutes.</timeboiled>
+                <facts>
+                    <fact_1>Garlic is one of the healthiest foods on earth. Low in calories but very high in nutrition.</fact_1>
+                    <fact_2>Garlic is known to clear acne, simply rub a thin slice on a pimple before bed time.</fact_2>
+                </facts>
+            </herb>
+        </plantea>
+
+        <plantea type="shrubs plant">
+            <species id="1">
+                <name>Camellia</name>
+                <scientificname>Camellia japonica</scientificname>
+                <uses>treatment of stomachic illness, bleeding and inflammation</uses>
+                <colors>pink, red, and white</colors>
+                <facts>
+                    <fact_1>is a tree belonging to the Theaceae family.</fact_1>
+                    <fact_2>is cultivated and has been used in traditional medicine in Japan, China, and Korea.</fact_2>
+                    <fact_3>used fresh as garnishes or dried and then used in Asian cuisine.</fact_3>
+                </facts>
+            </species>
+
+            <species id="2">
+                <name>azalea</name>
+                <scientificname>Rhododendron</scientificname>
+                <uses>he root is used in the treatment of arthritis, rheumatism and traumatic injuries</uses>
+                <colors>yellow, pink, orange, red and white</colors>
+                <facts>
+                    <fact_1>the word azalea comes from the Greek word meaning dry.</fact_1>
+                    <fact_2>azaleas are the national flower of Nepal.</fact_2>
+                    <fact_3>they're also the flower for the zodiac sign of Sagittarius.</fact_3>
+                    <fact_4>some azaleas produce so many flowers at once that you can hardly see the leaves!</fact_4>
+                </facts>
+            </species>
+
+            <species id="3">
+                <name>Sunrose</name>
+                <scientificname>Helianthemum scoparium</scientificname>
+                <uses>which are useful in rock gardens and wild gardens</uses>
+                <colors>red, orange, yellow, pink and white.</colors>
+                <facts>
+                    <fact_1>also called rock rose</fact_1>
+                    <fact_2>is a rushlike shrub that grows to 30 cm (1 foot) in height (but with lower varieties) and is native to California.</fact_2>
+                    <fact_3>related plants of the genus Cistus (family Cistaceae)</fact_3>
+                </facts>
+            </species >
+
+            <species id="4">
+                <name>Australian fuchsia</name>
+                <scientificname>Correa reflexa</scientificname>
+                <uses> indicates confiding love, given as a way of expressing your trust for someone</uses>
+                <colors>cream, red, green with contrasting color tips.</colors>
+                <facts>
+                    <fact_1>Fuchsia flowers are also associated with different myths</fact_1>
+                    <fact_2>has long, narrow fuchsia-like flowers that are ½-1 inch long and can be red, pink or orange</fact_2>
+                </facts>
+            </species>
+
+            <species id="5">
+                <name>henna</name>
+                <scientificname>Lawsonia inermis</scientificname>
+                <uses>used for severe diarrhea caused by a parasite (amoebic dysentery), cancer, enlarged spleen, headache, jaundice, and skin conditions.</uses>
+                <facts>
+                    <fact_1>the Henna paste symbolizes good health and prosperity in marriage</fact_1>
+                    <fact_2>Warnings. When taken by mouth: Henna is UNSAFE when taken by mouth.</fact_2>
+                    <fact_3>It can cause stomach upset, muscle breakdown, kidney failure, destruction of red blood cells (hemolytic anemia), and death.</fact_3>
+                </facts>
+            </species>
+
+            <species id="6">
+                <name>tulsi</name>
+                <scientificname>Ocimum tenuiflorum</scientificname>
+                <uses>
+                    <use_1>tulsi is recommended as a treatment for a range of conditions including anxiety, cough, asthma, diarrhea</use_1>
+                    <use_2>fever, dysentery, arthritis, eye diseases, otalgia, indigestion, hiccups, vomiting, gastric, cardiac and genitourinary disorders, back pain, skin diseases, ringworm, insect, snake and scorpion bites and malaria.</use_2>
+                </uses>
+                <colors>purple to reddish color.</colors>
+                <facts>
+                    <fact_1>Tulsi is an aromatic shrub in the basil family Lamiaceae (tribe ocimeae)</fact_1>
+                    <fact_2>Tulsi contains Vitamin C and other anti-oxidants such as eugenol which protects the heart from harmful effects of free radicals</fact_2>
+                </facts>
+            </species>
+        </plantea>
+
+        <plantea type="climbing plant">
+            <climb id="1">
+                <name>beans</name>
+                <scientificname>Phaseolus vulgaris</scientificname>
+                <uses>These nutrients may help to reduce the risk of certain cancers, like breast, colon, and prostate</uses>
+                <facts>
+                    <fact_1>Great Source of Iron, They're rich in dietary fiber.</fact_1>
+                    <fact_2>Most beans are a good source of folate, a water-soluble vitamin that's vital for healthy fetal development.</fact_2>
+                </facts>
+                <sideeffects>eating beans everyday can Causes Gastric Problems and cause migraine, and People can also be allergic to beans.</sideeffects>
+            </climb>
+
+            <climb id="2">
+                <name>grapevine</name>
+                <scientificname>vitis</scientificname>
+                <uses>grapevine leaf preparations can be used for treatment of chronic (long-term) venous insufficiency</uses>
+                <facts>
+                    <fact_1>used not only for wine but also for fresh fruit, dried fruit, and juice production.</fact_1>
+                    <fact_2>the oldest known grapevine is over 400 years old and can be found in Yarra, Slovenia.</fact_2>
+                </facts>
+                <sideeffects>Side effects that have been reported with grapevine leaf medicines include hypersensitivity (allergic)skin reactions.</sideeffects>
+            </climb>
+
+            <climb id="3">
+                <name>pea plant</name>
+                <scientificname>Pisum sativum</scientificname>
+                <uses>dried peas are commonly used in soups</uses>
+                <facts>
+                    <fact_1>a good source of vitamins C and E, zinc, and other antioxidants.</fact_1>
+                    <fact_2>help reduce inflammation and lower your risk of chronic conditions.</fact_2>
+                </facts>
+                <sideeffects>cause bloating, an uncomfortable swelling of the stomach often accompanied by gas and flatulence.</sideeffects>
+            </climb>
+
+            <climb id="4">
+                <name>money plant</name>
+                <scientificname>Epipremnum aureum</scientificname>
+                <uses>
+                    <use_1>Acts as an Anti-radiator</use_1>
+                    <use_2>Purifies air</use_2>
+                </uses>
+                <facts>
+                    <fact_1>they are believed to bring good wealth to the home.</fact_1>
+                    <fact_2>create positive energy.</fact_2>
+                </facts>
+                <sideeffects>poisoning can cause swelling of the mouth, throat, and tongue, as well as vomiting and diarrhea..</sideeffects>
+            </climb>
+
+            <climb id="5">
+                <name>sweet gourd</name>
+                <scientificname>Lagenaria siceraria</scientificname>
+                <uses>
+                    <use_1>treat fever</use_1>
+                    <use_2>treat asthma</use_2>
+                </uses>
+                <facts>
+                    <fact_1>low in calories and provides small amounts of vitamin C, folate, calcium, iron, zinc and B vitamins.</fact_1>
+                    <fact_2>rich in fiber and is believed to help aid in healthy digestion.</fact_2>
+                </facts>
+                <sideeffects>Allergic reactions</sideeffects>
+            </climb>
+
+            <climb id="6">
+                <name>honeysuckle</name>
+                <scientificname>Lonicera</scientificname>
+                <uses>
+                    <use_1>treat urinary disorders</use_1>
+                    <use_2>treat rheumatoid arthritis</use_2>
+                </uses>
+                <facts>
+                    <fact_1>can be evergreen or deciduous.</fact_1>
+                    <fact_2>a paradise for wildlife, with its sweet, heady fragrance calling to nearby species.</fact_2>
+                </facts>
+                <sideeffects>stomach pain, diarrhea, irregular heartbeat and vomiting.</sideeffects>
+            </climb>
+        </plantea>
+        <plantea type="trees">
+            <tree id="1">
+                <name>oak</name>
+                <scientificname>Quercus</scientificname>
+                <uses>furniture, joinery, flooring, panelling, decking and veneers</uses>
+                <height>40-80' and a spread of 60-100' at maturity..</height>
+                <facts>
+                    <fact_1>America's national tree</fact_1>
+                    <fact_2>Oaks are large, deciduous trees with a strong, durable wood.</fact_2>
+                    <fact_3>Oak is used to make alcohol.</fact_3>
+                </facts>
+            </tree>
+
+            <tree id="2">
+                <name>pine</name>
+                <scientificname>Pinus</scientificname>
+                <uses>construction and paper-products industries</uses>
+                <height>15-24 meters</height>
+                <facts>nown for their needle-like leaves and distinctive cones.</facts>
+            </tree>
+
+            <tree id="3">
+                <name>maple</name>
+                <scientificname>Acer</scientificname>
+                <uses> furniture, flooring, cabinetry, paneling, veneer, musical instruments, tool handles, cutting boards, butcher blocks, wooden bowls, boxes and crates</uses>
+                <height>10-45 m (33-148 ft)</height>
+                <facts>
+                    <fact_1>Maple trees can live to 200 years and beyond and have been tapped for 150 years or more.</fact_1>
+                    <fact_2>its ability to produce a unique sap that can be turned into syrup.</fact_2>
+                </facts>
+            </tree>
+
+            <tree id="4">
+                <name>redwood</name>
+                <scientificname>Sequoioideae</scientificname>
+                <uses>can create Boxes, bins, bats, barns, bridges, bungalows</uses>
+                <height>300 feet high or more.</height>
+                <facts>
+                    <fact_1>They are Ancient</fact_1>
+                    <fact_2>They Used to Host Geese.</fact_2>
+                </facts>
+            </tree>
+
+            <tree id="5">
+                <name>cherry blossom </name>
+                <scientificname>Prunus serrulata</scientificname>
+                <uses>
+                    <use_1>relief from irritation</use_1>
+                    <use_2>used in many traditional Japanese sweets and tea.</use_2>
+                </uses>
+                <height>15 to 30 feet</height>
+                <facts>
+                    <fact_1>symbolize both birth and death, beauty and violence</fact_1>
+                    <fact_2>represents a time of renewal and optimism.</fact_2>
+                </facts>
+            </tree>
+
+            <tree id="6">
+                <name>baobab</name>
+                <scientificname>Adansonia</scientificname>
+                <uses>
+                    <use_1>to treat “almost any disease</use_1>
+                    <use_2>The leaves and fruit pulp have been used to reduce fever and stimulate the immune system.</use_2>
+                </uses>
+                <height>23 metres (75 feet)</height>
+                <facts>
+                    <fact_1>Baobab trees are among the longest-lived trees.</fact_1>
+                    <fact_2>known as "The Tree of Life".</fact_2>
+                </facts>
+            </tree>
+        </plantea>
+
+        <plantea type="creepers plants">
+            <creep id="1">
+                <name>watermelon</name>
+                <scientificname>Citrullus lanatus</scientificname>
+                <uses>Helps you stay hydrated</uses>
+                <aveweight>12 to 16 kg</aveweight>
+                <facts>
+                    <fact_1>contains vitamin C, potassium and magnesium.</fact_1>
+                    <fact_2>They can grow with or without seeds.</fact_2>
+                </facts>
+            </creep>
+
+            <creep id="2">
+                <name>strawberry</name>
+                <scientificname>Fragaria × ananassa</scientificname>
+                <uses>deliver vitamins, fiber, and particularly high levels of antioxidants known as polyphenols</uses>
+                <aveweight>15 or 16 grams</aveweight>
+                <facts>
+                    <fact_1>Strawberries are the only fruit with seeds on the outside.</fact_1>
+                    <fact_2>Strawberries are the first fruit to ripen in spring.</fact_2>
+                    <fact_3>Strawberries are members of the rose family.</fact_3>
+                </facts>
+            </creep>
+
+            <creep id="3">
+                <name>pumpkin</name>
+                <scientificname>Cucurbita</scientificname>
+                <uses>pumpkin seeds as an official medicine for parasite elimination</uses>
+                <aveweight>between 10 and 25 pounds</aveweight>
+                <facts>
+                    <fact_1>There are hundreds of varieties of pumpkin</fact_1>
+                    <fact_2>Pumpkins are good for your hearing!</fact_2>
+                    <fact_3>Pumpkin is used to make soups, desserts and breads, and many Americans include pumpkin pie in their Thanksgiving meals</fact_3>
+                </facts>
+            </creep >
+
+            <creep id="4">
+                <name>sweet potatoes</name>
+                <scientificname>Ipomoea batatas</scientificname>
+                <uses>treat cancer,Diabetes and heart disease</uses>
+                <aveweight>One large sweet potato weighs roughly ½-lb</aveweight>
+                <facts>
+                    <fact_1>Sweet potatoes are great sources of vitamin A, vitamin C, beta carotene, fiber and potassium</fact_1>
+                    <fact_2>Sweet potatoes can be white, yellow, red, purple or orange</fact_2>
+                </facts>
+            </creep>
+
+            <creep id="5">
+                <name>cucumber</name>
+                <scientificname>Cucumis sativus</scientificname>
+                <uses>keep you hydrated plus,the fiber boost they give you helps you stay regular and avoid constipation.</uses>
+                <aveweight>400g (14 ounces)</aveweight>
+                <facts>
+                    <fact_1>made up of mostly water, but also contain vitamins A, C and B6.</fact_1>
+                    <fact_2> It has large leaves and bright yellow flowers that form long, green fruit with tapered ends.</fact_2>
+                </facts>
+            </creep>
+
+            <creep id="6">
+                <name>cabbage</name>
+                <scientificname>Brassica oleracea var. capitata</scientificname>
+                <uses>
+                    <use_1>May lower blood pressure</use_1>
+                    <use_2>cabbage leaf treatment helps reduce pain in breast engorgement and lengthens breastfeeding duration.</use_2>
+                </uses>
+                <aveweight> 500 to 1,000 grams (1 to 2 lb)</aveweight>
+                <facts>
+                    <fact_1>low in saturated fat and cholesterol</fact_1>
+                    <fact_2>rinking juiced cabbage is known to assist in curing stomach and intestinal ulcers.effects of free radicals</fact_2>
+                </facts>
+            </creep>
+        </plantea>
+    </Plants>
+</PLANT>
